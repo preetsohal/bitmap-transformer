@@ -1,0 +1,32 @@
+ This project is useful to change the image color implementing binary values.
+
+ AS a Developer
+ configuration instructions
+      you need to install package.json globally.
+      you also need to initialize it in the project.
+      also you need to install its all required dependencies such as mocha, chai, eslint, gulp, and gulp-eslint.
+
+installation instructions
+      to install node packages please follow the instruction clicking on this https://docs.npmjs.com/files/package.json
+      in order to run test successfully you need to install above dependencies. you can find all dependencies and its installation instruction through link above.
+
+operating instructions
+      there are documentations about operating this project and tests............
+      
+
+a file manifest
+      there are separate folders and files in the project to make project easier to read to other developers.
+      for commits and history code you can click on github.com.
+
+copyright and licensing information
+    Author:- James Moon
+            Gurpreet Singh
+    license by "MIT"
+
+contact information for the distributor or programmer
+    email goes here
+
+known bugs
+troubleshooting
+credits and acknowledgements
+a changelog
